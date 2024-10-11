@@ -1,15 +1,11 @@
 # LABcal: Automated Calendar Analysis
 
-## About
-
-**LABcal** is a `streamlit` web app that parses iCalendar files (`.ics`) 
-and returns various statistical plots that are based on a `dict` like 
-structure in the calendar field `DESCRIPTION`.
+**LABcal** is a `streamlit` web app that parses iCalendar files (`.ics`) and returns various statistical plots that are based on a `dict` like structure in the calendar field `DESCRIPTION`.
 
 The app was created as a final project for the [Data Librarian](https://www.th-koeln.de/weiterbildung/zertifikatskurs-data-librarian_63393.php) certificate course organised by [TH Köln](https://www.th-koeln.de/en/) in 2023/24. It serves to simplify the generation of user statistics for the Education Lab [ExpLAB](https://www.bib.uni-mannheim.de/standorte/explab-schloss-schneckenhof/) at the [University Library Mannheim](https://www.bib.uni-mannheim.de/en/).
 
-![LABcal](assets/streamlit_app.png)
-![LABcal Plots](assets/plots.png)
+<img src="assets/streamlit_app.png" width=60%><br/>
+<img src="assets/plots.png" width=60%>
 
 ## Usage
 
@@ -17,8 +13,7 @@ Start **LABcal** by either running the `streamlit` app from the terminal (see [i
 
 ## Paper
 
-The corresponding paper *LABcal: Automated Calendar Analysis for the
-Education Lab »ExpLAB« at the University Library Mannheim* is available on the publication server of the University of Mannheim (MADOC): [DOI]. It contains a detailed section with annotated code.
+The corresponding paper *LABcal: Automated Calendar Analysis for the Education Lab »ExpLAB« at the University Library Mannheim* is available on the publication server of the University of Mannheim (MADOC): [DOI]. It contains a detailed section with annotated code.
 
 ## Repository layout
 
