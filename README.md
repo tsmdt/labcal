@@ -1,5 +1,7 @@
 # LABcal: Automated Calendar Analysis
 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tsmdt/labcal.git/HEAD)
+
 **LABcal** is a `streamlit` web app that parses iCalendar files (`.ics`) and returns various statistical plots that are based on a `dict` like structure in the calendar field `DESCRIPTION`.
 
 The app was created as a final project for the [Data Librarian](https://www.th-koeln.de/weiterbildung/zertifikatskurs-data-librarian_63393.php) certificate course organised by [TH Köln](https://www.th-koeln.de/en/) in 2023/24. It serves to simplify the generation of user statistics for the Education Lab [ExpLAB](https://www.bib.uni-mannheim.de/standorte/explab-schloss-schneckenhof/) at the [University Library Mannheim](https://www.bib.uni-mannheim.de/en/).
@@ -11,11 +13,9 @@ The app was created as a final project for the [Data Librarian](https://www.th-k
 
 ## Usage
 
-Start **LABcal** by either running the `streamlit` app from the terminal (see [installation instructions](#installation) below) or by running the jupyter notebook code demo through `binder`.
+Start **LABcal** by either running the `streamlit` app from the terminal (see [installation instructions](#installation) below) or by running the jupyter notebook code demo through `binder`: 
 
-## Paper
-
-The corresponding paper *LABcal: Automated Calendar Analysis for the Education Lab »ExpLAB« at the University Library Mannheim* is available on the publication server of the University of Mannheim (MADOC): [DOI]. It contains a detailed section with annotated code.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tsmdt/labcal.git/HEAD)
 
 ## Repository layout
 
@@ -85,7 +85,7 @@ streamlit run app.py
 
 ## License
 
-**LABcal** is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en).
+Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en).
 
 ## Links
 
