@@ -5,8 +5,8 @@
 The app was created as a final project for the [Data Librarian](https://www.th-koeln.de/weiterbildung/zertifikatskurs-data-librarian_63393.php) certificate course organised by [TH Köln](https://www.th-koeln.de/en/) in 2023/24. It serves to simplify the generation of user statistics for the Education Lab [ExpLAB](https://www.bib.uni-mannheim.de/standorte/explab-schloss-schneckenhof/) at the [University Library Mannheim](https://www.bib.uni-mannheim.de/en/).
 
 <p align="center">
-  <img src="assets/streamlit_app.png" width="60%"/>
-  <img src="assets/plots.png" width="60%"/>
+  <img src="assets/streamlit_app.png" width="75%"/>
+  <img src="assets/plots.png" width="75%"/>
 </p>
 
 ## Usage
