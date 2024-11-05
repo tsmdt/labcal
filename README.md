@@ -83,12 +83,24 @@ jupyter notebook labCal_notebook.ipynb
 streamlit run app.py
 ```
 
-## License
-
-Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en).
+## Paper
+```BibTex
+@report{madoc67961,
+  language = {English},
+  title = {LABcal: Automated calendar analysis for the Education Lab "ExpLAB" at the University Library Mannheim : final project in the Data Librarian Certificate Course 2023/24},
+  address = {Mannheim},
+  year = {2024},
+  author = {Thomas Schmidt},
+  url = {https://madoc.bib.uni-mannheim.de/67961/}
+}
+```
 
 ## Links
 
 * [University Library Mannheim](https://www.bib.uni-mannheim.de/en/)
 * [TH Köln](https://www.th-koeln.de/en/)
 * [Zertifikatskurs Data Librarian](https://www.th-koeln.de/weiterbildung/zertifikatskurs-data-librarian_63393.php)
+
+## License
+
+Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en).
