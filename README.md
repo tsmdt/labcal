@@ -84,6 +84,8 @@ streamlit run app.py
 ```
 
 ## Paper
+Find the corresponding [paper](https://madoc.bib.uni-mannheim.de/67961/) on MADOC.
+
 ```BibTex
 @report{madoc67961,
   language = {English},
